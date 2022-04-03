@@ -1,7 +1,7 @@
 TANGLE Desktop
 ======
 
-Tangle is an experimental peer-to-peer Web browser and fork of the Beaker Browser project. It adds new APIs for building hostless applications while remaining compatible with the rest of the Web. [Visit the website.](https://bitweb.org/tangle/)
+Tangle is an experimental peer-to-peer Web browser for Hyper, BIT, as well as the IPFS networks and it is a fork of the Beaker Browser project. It adds new APIs for building hostless applications while remaining compatible with the rest of the Web. [Visit the website.](https://bitweb.org/tangle/)
 
 Please feel free to open usability issues. Join us at #beakerbrowser on Freenode.
 
